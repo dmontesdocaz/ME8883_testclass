@@ -4,10 +4,10 @@ title: How to creat your project pages
 header-img: img/home-bg.jpg
 email: dmo7@gatech.edu
 description: " Followed tutorial to be able to set up a Project Pages for the ME8883 Class"
-baseurl: "/project-pages"
-url: "http://matin-hub.github.io"
-github_username:  matin-hub
-project_repository: project-pages
+baseurl: "/ME8883_testclass"
+url: "http://dmontesdeocaz.github.io"
+github_username:  dmontesdeocaz
+project_repository: ME8883_testclass
 
 # Build settings
 # Don't change these variables
